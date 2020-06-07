@@ -9,15 +9,15 @@
 # Maintainer      : Yoyo.org
 # Maintainer URL  : http://pgl.yoyo.org/adservers/
 # List source URL : http://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext
-# Source File Date: Fri May 29 11:08:03 UTC 2020
+# Source File Date: Fri Jun  5 11:08:03 UTC 2020
 #
 # Category        : organizations
-# Version         : 210
+# Version         : 213
 #
-# This File Date  : Fri May 29 11:08:03 UTC 2020
+# This File Date  : Fri Jun  5 11:08:03 UTC 2020
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 10780 unique IPs
+# Entries         : 10771 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -167,7 +167,6 @@
 8.15.231.131
 8.15.231.132
 8.15.231.219
-8.18.45.80
 8.19.10.2
 8.19.18.80
 8.21.32.181
@@ -1377,7 +1376,6 @@
 63.215.75.51
 63.215.143.207
 63.215.202.9
-63.215.202.48
 63.215.202.73
 63.215.202.74
 63.215.202.146
@@ -1907,8 +1905,6 @@
 64.157.165.214
 64.157.165.241
 64.157.165.246
-64.158.223.128
-64.158.223.150
 64.159.68.71
 64.159.93.205
 64.177.234.168
@@ -2048,7 +2044,6 @@
 64.246.46.107
 64.246.56.42
 64.251.19.50
-64.254.227.23
 64.255.164.20
 64.255.172.50
 64.255.172.197
@@ -5018,8 +5013,6 @@
 89.202.193.165
 89.202.193.167
 89.202.193.171
-89.207.18.81
-89.207.18.182
 89.234.39.243
 89.238.81.142
 89.238.137.235
@@ -9599,11 +9592,9 @@
 216.34.131.174
 216.34.207.60
 216.34.207.61
-216.34.207.74
 216.34.207.131
 216.34.207.134
 216.34.207.135
-216.34.207.176
 216.34.209.10
 216.34.209.13
 216.34.209.14
