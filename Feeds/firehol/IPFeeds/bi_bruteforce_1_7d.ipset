@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/bruteforce/1?age=7d
-# Source File Date: Sun Jun  7 01:24:24 UTC 2020
+# Source File Date: Sun Jun  7 07:32:11 UTC 2020
 #
 # Category        : attacks
-# Version         : 2648
+# Version         : 2649
 #
-# This File Date  : Sun Jun  7 01:24:24 UTC 2020
+# This File Date  : Sun Jun  7 07:32:11 UTC 2020
 # Update Frequency: 6 hours 
 # Aggregation     : none
-# Entries         : 426 unique IPs
+# Entries         : 433 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,7 +29,9 @@
 # Processed with FireHOL's iprange
 #
 5.8.10.202
+5.135.177.168
 5.199.130.188
+14.63.221.108
 14.232.160.213
 31.27.38.242
 31.184.194.114
@@ -53,12 +55,14 @@
 46.148.192.41
 46.165.230.5
 46.182.106.190
+47.91.92.228
 51.254.37.192
 51.254.137.206
 51.254.220.20
 51.255.35.58
 54.36.182.244
 54.36.189.105
+54.37.232.137
 54.38.33.186
 54.38.183.181
 58.17.243.151
@@ -217,6 +221,7 @@
 106.51.72.240
 106.75.107.146
 106.243.87.162
+108.58.41.139
 109.73.46.142
 109.173.40.60
 109.194.19.243
@@ -434,11 +439,13 @@
 212.156.115.58
 212.170.50.203
 213.32.52.1
+213.98.181.220
 213.120.170.34
 213.222.56.130
 216.218.134.12
 216.239.90.19
 216.244.66.229
+217.32.246.90
 217.170.197.83
 217.182.68.146
 217.182.74.96
