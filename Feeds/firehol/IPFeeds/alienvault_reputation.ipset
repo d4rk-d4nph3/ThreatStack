@@ -9,15 +9,15 @@
 # Maintainer      : Alien Vault
 # Maintainer URL  : https://www.alienvault.com/
 # List source URL : https://reputation.alienvault.com/reputation.generic
-# Source File Date: Fri Jul  3 13:35:28 UTC 2020
+# Source File Date: Mon Jul  6 20:27:38 UTC 2020
 #
 # Category        : reputation
-# Version         : 2981
+# Version         : 2982
 #
-# This File Date  : Fri Jul  3 13:53:23 UTC 2020
+# This File Date  : Mon Jul  6 20:37:47 UTC 2020
 # Update Frequency: 6 hours 
 # Aggregation     : none
-# Entries         : 275647 unique IPs
+# Entries         : 275630 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -9527,7 +9527,6 @@
 5.154.54.2
 5.154.79.163
 5.154.187.252
-5.154.189.58
 5.154.243.204
 5.157.101.54
 5.157.113.102
@@ -94893,19 +94892,6 @@
 94.198.129.30
 94.198.131.96
 94.198.141.163
-94.198.187.58
-94.198.187.114
-94.198.187.118
-94.198.188.18
-94.198.189.206
-94.198.189.222
-94.198.189.226
-94.198.190.46
-94.198.190.74
-94.198.190.142
-94.198.190.170
-94.198.190.198
-94.198.191.218
 94.198.237.45
 94.198.243.198
 94.199.23.76
@@ -180876,8 +180862,6 @@
 151.237.195.68
 151.237.204.90
 151.237.207.10
-151.237.235.174
-151.237.237.234
 151.242.85.138
 151.242.92.89
 151.243.109.176
@@ -217738,7 +217722,6 @@
 185.56.157.38
 185.56.159.19
 185.57.70.137
-185.57.92.206
 185.57.165.49
 185.57.167.43
 185.57.228.75
