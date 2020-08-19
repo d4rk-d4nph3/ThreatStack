@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/bruteforce/1?age=7d
-# Source File Date: Sun Aug 16 16:56:40 UTC 2020
+# Source File Date: Mon Aug 17 23:24:59 UTC 2020
 #
 # Category        : attacks
-# Version         : 2880
+# Version         : 2881
 #
-# This File Date  : Sun Aug 16 16:56:40 UTC 2020
+# This File Date  : Mon Aug 17 23:24:59 UTC 2020
 # Update Frequency: 6 hours 
 # Aggregation     : none
-# Entries         : 349 unique IPs
+# Entries         : 350 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -161,6 +161,7 @@
 109.195.198.27
 109.227.63.3
 110.10.174.179
+110.52.151.59
 110.170.166.101
 110.175.57.53
 111.11.181.53
@@ -201,7 +202,6 @@
 122.154.46.5
 122.154.134.38
 122.176.40.9
-122.227.159.84
 123.207.31.240
 123.207.107.144
 123.207.157.108
@@ -319,6 +319,7 @@
 195.158.29.222
 195.178.222.29
 195.208.185.27
+195.254.135.76
 196.38.70.24
 198.23.251.111
 198.50.197.216
