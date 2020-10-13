@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![License](https://img.shields.io/badge/License-Apache%202-blue.svg)](https://shields.io/)
 
-##### Update Time: 2020-10-12 13:00:58 NST
+##### Update Time: 2020-10-13 13:00:33 NST
 ## Purpose
 ThreatStack aggregates Threat Intel Feeds from different Open Sources and regularly updates them. It is developed for my personal Threat Hunting escapades.
 
