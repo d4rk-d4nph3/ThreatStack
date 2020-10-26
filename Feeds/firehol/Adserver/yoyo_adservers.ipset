@@ -9,15 +9,15 @@
 # Maintainer      : Yoyo.org
 # Maintainer URL  : http://pgl.yoyo.org/adservers/
 # List source URL : http://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext
-# Source File Date: Fri Oct 16 11:08:03 UTC 2020
+# Source File Date: Fri Oct 23 11:12:02 UTC 2020
 #
 # Category        : organizations
-# Version         : 247
+# Version         : 250
 #
-# This File Date  : Fri Oct 16 11:08:03 UTC 2020
+# This File Date  : Fri Oct 23 11:12:03 UTC 2020
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 10608 unique IPs
+# Entries         : 10605 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1440,7 +1440,6 @@
 64.12.184.57
 64.12.184.89
 64.12.184.121
-64.13.247.198
 64.13.249.148
 64.14.42.111
 64.14.42.201
@@ -1907,7 +1906,6 @@
 64.202.167.192
 64.202.189.110
 64.202.189.170
-64.207.133.96
 64.208.42.55
 64.208.42.56
 64.208.137.250
@@ -8389,7 +8387,6 @@
 208.91.197.235
 208.91.197.239
 208.91.207.10
-208.92.238.150
 208.93.154.82
 208.93.170.12
 208.93.170.15
