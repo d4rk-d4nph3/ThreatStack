@@ -9,15 +9,15 @@
 # Maintainer      : CyberCrime
 # Maintainer URL  : http://cybercrime-tracker.net/
 # List source URL : http://cybercrime-tracker.net/fuckerz.php
-# Source File Date: Tue Nov 10 00:04:29 UTC 2020
+# Source File Date: Wed Nov 11 00:20:05 UTC 2020
 #
 # Category        : malware
-# Version         : 1358
+# Version         : 1360
 #
-# This File Date  : Tue Nov 10 00:04:29 UTC 2020
+# This File Date  : Wed Nov 11 00:20:05 UTC 2020
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 801 unique IPs
+# Entries         : 805 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -35,6 +35,7 @@
 3.12.197.56
 3.84.110.176
 3.88.209.250
+3.129.71.0
 3.235.144.112
 3.235.176.160
 3.236.107.30
@@ -60,6 +61,7 @@
 13.72.82.82
 13.72.111.198
 13.73.1.69
+13.75.220.102
 13.77.200.247
 13.77.207.76
 13.78.216.62
@@ -313,12 +315,14 @@
 61.147.75.109
 62.122.95.211
 62.122.199.251
+62.128.207.106
 62.210.91.20
 63.247.136.220
 64.6.231.76
 64.71.32.17
 64.71.32.28
 64.71.32.30
+64.202.189.14
 64.227.14.55
 65.52.24.217
 65.255.38.126
