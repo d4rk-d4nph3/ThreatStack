@@ -20,12 +20,12 @@
 # Maintainer      : US Cert
 # Maintainer URL  : https://www.us-cert.gov/ncas/alerts/TA17-164A
 # List source URL : https://www.us-cert.gov/sites/default/files/publications/TA-17-164A_csv.csv
-# Source File Date: Wed Jun 14 01:08:09 UTC 2017
+# Source File Date: Wed Mar 27 13:01:13 UTC 2019
 #
 # Category        : attacks
-# Version         : 6
+# Version         : 1
 #
-# This File Date  : Thu Jun  7 00:36:32 UTC 2018
+# This File Date  : Sun Mar 28 05:05:10 UTC 2021
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 627 unique IPs
