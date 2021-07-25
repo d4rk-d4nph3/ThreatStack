@@ -9,15 +9,15 @@
 # Maintainer      : Yoyo.org
 # Maintainer URL  : http://pgl.yoyo.org/adservers/
 # List source URL : http://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext
-# Source File Date: Fri Jul 16 11:12:02 UTC 2021
+# Source File Date: Fri Jul 23 11:08:03 UTC 2021
 #
 # Category        : organizations
-# Version         : 339
+# Version         : 341
 #
-# This File Date  : Fri Jul 16 11:12:02 UTC 2021
+# This File Date  : Fri Jul 23 11:08:03 UTC 2021
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 10187 unique IPs
+# Entries         : 10180 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1255,7 +1255,6 @@
 63.144.121.142
 63.146.120.73
 63.149.176.12
-63.156.206.38
 63.156.206.202
 63.163.102.100
 63.163.102.203
@@ -2997,7 +2996,6 @@
 69.55.231.250
 69.56.136.30
 69.56.152.78
-69.56.163.51
 69.56.171.54
 69.56.194.122
 69.56.235.196
@@ -3126,7 +3124,6 @@
 70.84.111.82
 70.84.114.142
 70.84.189.210
-70.84.218.21
 70.84.236.226
 70.85.22.227
 70.85.53.210
@@ -6390,7 +6387,6 @@
 184.73.234.18
 184.73.235.191
 184.73.241.202
-184.73.252.202
 184.82.236.89
 184.85.205.95
 184.105.177.9
@@ -7704,7 +7700,6 @@
 207.188.9.32
 207.189.97.33
 207.189.109.37
-207.189.109.125
 207.190.12.215
 207.195.225.10
 207.199.88.218
@@ -7901,8 +7896,6 @@
 208.72.192.133
 208.73.51.100
 208.73.51.101
-208.73.210.48
-208.73.210.50
 208.73.210.76
 208.73.210.84
 208.73.210.102
