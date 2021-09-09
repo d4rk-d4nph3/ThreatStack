@@ -10,15 +10,15 @@
 # Maintainer      : IBM X-Force Exchange
 # Maintainer URL  : https://exchange.xforce.ibmcloud.com/
 # List source URL : https://api.xforce.ibmcloud.com/taxii
-# Source File Date: Fri Sep  3 02:28:14 UTC 2021
+# Source File Date: Wed Sep  8 03:28:12 UTC 2021
 #
 # Category        : malware
-# Version         : 37
+# Version         : 38
 #
-# This File Date  : Fri Sep  3 02:28:14 UTC 2021
+# This File Date  : Wed Sep  8 03:28:12 UTC 2021
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 412 unique IPs
+# Entries         : 415 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -323,6 +323,7 @@
 176.113.144.59
 177.4.23.159
 178.137.186.223
+178.162.203.225
 178.217.186.27
 178.218.78.15
 180.182.234.200
@@ -402,6 +403,7 @@
 198.27.89.153
 198.54.117.200
 198.245.202.92
+199.2.137.138
 199.7.234.100
 199.59.242.150
 199.101.133.165
@@ -420,6 +422,7 @@
 202.144.144.195
 202.191.62.226
 203.170.193.23
+204.95.99.26
 204.95.99.86
 206.189.201.149
 206.214.220.79
